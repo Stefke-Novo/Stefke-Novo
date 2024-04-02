@@ -42,6 +42,7 @@
   	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
     <img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/>
     <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/>
+	   <img width="50" src="https://github.com/Stefke-Novo/Stefke-Novo/assets/72997632/591fa207-95af-4f9d-90c1-1422758fa5c6" alt="Ionic" title="Ionic"/>
   </div>
 </section>
 <br>
